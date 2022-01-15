@@ -56,6 +56,16 @@ header {
     padding: 20px 0;
 }
 
+#nav-toggler {
+    display: none;
+}
+
+.toggle-icon i {
+    font-size: 25px;
+    color: #fff;
+    display: none;
+}
+
 .navigation li {
     list-style: none;
 }
